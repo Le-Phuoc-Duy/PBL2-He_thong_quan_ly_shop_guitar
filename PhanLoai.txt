@@ -1,0 +1,8 @@
+1, Guitar Classic, Ton Tai
+2, Guitar Acoustic, Ton Tai
+3, Capo, Ton Tai
+4, Day Dan, Ton Tai
+5, Bao Dan, Ton Tai
+6, Loa, Ton Tai
+7, Eq, Ton Tai
+8, Dung Cu Luyen Ngon, Ton Tai

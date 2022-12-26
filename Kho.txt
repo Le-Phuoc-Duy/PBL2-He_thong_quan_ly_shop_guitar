@@ -1,0 +1,9 @@
+100, Lake Wood, 900000, 9000000, 14, 2, Ton Tai
+101, Phuc Sy, 800000, 8000000, 14, 1, Ton Tai
+102, Elixir, 80000, 400000, 15, 4, Ton Tai
+103, Alice, 50000, 90000, 15, 4, Ton Tai
+104, Met B12, 300000, 500000, 15, 7, Ton Tai
+105, Fishman, 400000, 900000, 15, 7, Ton Tai
+106, Marshall, 1000000, 3000000, 15, 6, Ton Tai
+107, Panda, 40000, 60000, 15, 3, Ton Tai
+108, Aroma, 20000, 80000, 0, 8, Ton Tai

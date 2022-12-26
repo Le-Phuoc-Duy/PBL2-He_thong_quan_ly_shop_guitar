@@ -1,0 +1,5 @@
+1, Nguyen Thi Tra, My, Nu, 28/03/2003, 0853171684, 38 Dong Ke, Quan ly, 6000000, Ton Tai, 09/08/2022
+2, Le Phuoc, Duy, Nam, 10/08/2003, 0866926124, 16 Phan Van Dinh, Quan ly, 6000000, Ton Tai, 09/08/2022
+3, Nguyen The, Kien, Nam, 22/06/2002, 0512621912, 62 Ho Tung Mau, Nhan vien, 4500000, Ton Tai, 09/10/2022
+4, Tran Thanh, Nga, Nu, 25/12/2000, 0965333444, 72 Hung Vuong, Nhan vien, 4500000, Ton Tai, 22/11/2022
+5, Nguyen Van, A, Nam, 10/10/2003, 0123456789, 120 Phan Van Truong, Quan ly, 6000000, Da Xoa, 09/12/2022, 09/12/2022
